@@ -1,0 +1,8 @@
+.volunteer-area{
+    border:3px solid lightgray;
+    transition: transform .2s;
+}
+.volunteer-area:hover{
+    border:2px solid orange;
+    transform: scale(1.08)
+}
